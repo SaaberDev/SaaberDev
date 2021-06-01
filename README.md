@@ -92,16 +92,8 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 </tr>
 </table>
 
-<h2 align='center'><i>Top Repos</i></h2>
-
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=saaberdev&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
-</a>
-</p>
-
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saaberdev&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+<img src="https://github-readme-stats.vercel.app/api?username=saaberdev&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" width="100%">
 </a>
 </p>
