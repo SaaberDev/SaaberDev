@@ -97,7 +97,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saaberdev&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaberdev&count_private=true&layout=compact&theme=vue-dark&hide_border=true&hide=shell" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=saaberdev&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaberdev&count_private=true&layout=compact&theme=vue-dark&hide_border=true" width="48%">
 </p>
 
