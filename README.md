@@ -92,6 +92,8 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 </tr>
 </table>
 
+</br>
+
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 
 <p align="center">
