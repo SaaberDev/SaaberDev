@@ -7,16 +7,13 @@ _Hello there this is **Mahfuzur Rahman Saber**. A **Backend Web Developer** spec
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/saaberdev"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.instagram.com/saaberdev/"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png"></a>
+        <a href="https://twitter.com/saaberdev"><img src="images/twitter-logo-blue.png" width="60"></a>
     </td>
     <td align='center' width="60">
         <a href="https://www.linkedin.com/in/saaberdev/"><img src="images/linkedin-icon.png" width="60"></a>
     </td>
      <td align='center' width="60">
-        <a href="https://dev.to/ashutosh00710"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="60"></a>
+        <a href="https://dev.to/ashutosh00710"><img src="images/dev-logo-black.png" width="60"></a>
     </td>
 </tr>
 </table>
