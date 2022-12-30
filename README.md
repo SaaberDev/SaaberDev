@@ -1,10 +1,10 @@
-<h2 align='left'> <i>Hello, Folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h2>  
+<p align="center">  </p>
+<p align="center">
+    <a href="#" target="blank"><img src="https://komarev.com/ghpvc/?username=saaberdev&color=grey" alt="saaberdev profile views" /></a>
+    <a href="https://twitter.com/saaberdev" target="blank"><img src="https://img.shields.io/twitter/follow/saaberdev?logo=twitter&style=social" alt="saaberdev" /></a>
+    <a href="https://twitter.com/saaberdev" target="blank"><img src="https://img.shields.io/github/followers/saaberdev?label=Follow&style=social" alt="saaberdev" /></a>
 
-_Hello there this is **Mahfuzur Rahman Saber**. A **Backend Web Developer** specialized in **Laravel Framework** with 3 years of experience. You can see my activity down below. I love to code in Laravel (Currently an intermediate in Laravel 😅). Get in touch if you have any great project idea. I would love to work with you._  
-<h3 align='center'><i>Social Media Handles</i></h3>
-<p align='center'>
- 
-<table width="100" align='center'>
+<table width="100" align="center">
 <tr>
     <td align='center' width="60">
         <a href="https://twitter.com/saaberdev"><img src="images/twitter-logo-blue.png" width="60"></a>
@@ -12,87 +12,47 @@ _Hello there this is **Mahfuzur Rahman Saber**. A **Backend Web Developer** spec
     <td align='center' width="60">
         <a href="https://www.linkedin.com/in/saaberdev/"><img src="images/linkedin-icon.png" width="60"></a>
     </td>
-     <td align='center' width="60">
-        <a href="https://dev.to/ashutosh00710"><img src="images/dev-logo-black.png" width="60"></a>
+    <td align='center' width="60">
+        <a href="https://dev.to/saaberdev"><img src="images/dev-logo-black.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.hackerrank.com/saaberdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saaberdev" height="30" width="40" /></a>
     </td>
 </tr>
 </table>
-
 </p>
 
-</br>
+<h2 align='left'>
+    <i>Hello, Folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></i>
+</h2>
 
-<h2 align='center'><i>Coding Streak</i></h2>
-<p align="center">
- 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaaberDev">
- 
+<p> Welcome to my profile! </br> I'm Saber, Backend Web Developer specialized in Laravel Framework with 3 years of experience. I'm from <img src="images/bangladesh-flag.png" width="13"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="images/norway-flag.png" width="13"/> <b>Bergen, Norway</b>. </p>
+
+#### Things I code with
+
+<p>
+  <img alt="php" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white" />
+  <img alt="laravel" src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="livewire" src="https://img.shields.io/badge/-Livewire-f972a9?style=flat-square&logo=livewire&logoColor=white" />
+  <br>
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <br>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-214CE5?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="phpstorm" src="https://img.shields.io/badge/-PHPStorm-B345F1?style=flat-square&logo=phpstorm&logoColor=white" />
+  <img alt="postman" src="https://img.shields.io/badge/-Postman-F76935?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-</br>
-
-<h2 align='center'><i>Languages and Tools</i></h2>
-
-<table width="100">
-<tr>
-    <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
-    </td>
-     <td align='center' width="190">
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td>
-</tr>
-</table>
-
-</br>
-
-<h2 align='center'><i>Github Stats & Languages Used</i></h2>
+#### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saaberdev&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaberdev&count_private=true&layout=compact&theme=vue-dark&hide_border=true" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=saaberdev&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" width="48%" alt="github stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaaberDev&theme=vue-dark&hide_border=true" width="48%" alt="github streak">
 </p>
-
