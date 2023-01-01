@@ -2,7 +2,7 @@
 <p align="center">
     <a href="#" target="blank"><img src="https://komarev.com/ghpvc/?username=saaberdev&color=grey" alt="saaberdev profile views" /></a>
     <a href="https://twitter.com/saaberdev" target="blank"><img src="https://img.shields.io/twitter/follow/saaberdev?logo=twitter&style=social" alt="saaberdev" /></a>
-    <a href="https://twitter.com/saaberdev" target="blank"><img src="https://img.shields.io/github/followers/saaberdev?label=Follow&style=social" alt="saaberdev" /></a>
+    <a href="https://github.com/saaberdev" target="blank"><img src="https://img.shields.io/github/followers/saaberdev?label=Follow&style=social" alt="saaberdev" /></a>
 
 <table width="100" align="center">
 <tr>
@@ -31,23 +31,26 @@
 #### Things I code with
 
 <p>
-  <img alt="php" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white" />
-  <img alt="laravel" src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="livewire" src="https://img.shields.io/badge/-Livewire-f972a9?style=flat-square&logo=livewire&logoColor=white" />
-  <br>
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
-  <img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <br>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-214CE5?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="phpstorm" src="https://img.shields.io/badge/-PHPStorm-B345F1?style=flat-square&logo=phpstorm&logoColor=white" />
-  <img alt="postman" src="https://img.shields.io/badge/-Postman-F76935?style=flat-square&logo=postman&logoColor=white" />
+<img alt="php" src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php&logoColor=white" />
+<img alt="laravel" src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
+<img alt="mysql" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="apache" src="https://img.shields.io/badge/-Apache-CC2336?style=flat-square&logo=apache&logoColor=white" />
+<img alt="livewire" src="https://img.shields.io/badge/-Livewire-f972a9?style=flat-square&logo=livewire&logoColor=white" />
+<br>
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-214CE5?style=flat-square&logo=css3&logoColor=white" />
+<img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7010F4?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
+<img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+<br>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="phpstorm" src="https://img.shields.io/badge/-PHPStorm-B345F1?style=flat-square&logo=phpstorm&logoColor=white" />
+<img alt="postman" src="https://img.shields.io/badge/-Postman-F76935?style=flat-square&logo=postman&logoColor=white" />
+<img alt="windows" src="https://img.shields.io/badge/-Windows-0078d4?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
 #### GitHub Stats
