@@ -17,9 +17,6 @@
     <td align='center' width="60">
         <a href="https://dev.to/saaberdev"><img src="images/dev-logo-black.png" width="60"></a>
     </td>
-    <td align='center' width="60">
-        <a href="https://www.hackerrank.com/saaberdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saaberdev" height="30" width="40" /></a>
-    </td>
 </tr>
 </table>
 </p>
