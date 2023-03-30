@@ -1,3 +1,5 @@
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk [get badge list] -->
+
 <p align="center">  </p>
 <p align="center">
     <a href="#" target="blank"><img src="https://komarev.com/ghpvc/?username=saaberdev&color=grey" alt="saaberdev profile views" /></a>
@@ -43,7 +45,7 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7010F4?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
-<img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+<img alt="webpack" src="https://img.shields.io/badge/-Webpack (Laravel Mix)-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 <br>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -51,6 +53,13 @@
 <img alt="phpstorm" src="https://img.shields.io/badge/-PHPStorm-B345F1?style=flat-square&logo=phpstorm&logoColor=white" />
 <img alt="postman" src="https://img.shields.io/badge/-Postman-F76935?style=flat-square&logo=postman&logoColor=white" />
 <img alt="windows" src="https://img.shields.io/badge/-Windows-0078d4?style=flat-square&logo=windows&logoColor=white" />
+</p>
+
+#### Currently Learning
+
+<p>
+<img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img alt="dotnetcore" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
 </p>
 
 #### GitHub Stats
