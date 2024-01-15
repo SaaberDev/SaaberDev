@@ -25,7 +25,7 @@
     <i>Hello, Folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></i>
 </h2>
 
-<p> Welcome to my profile! </br> I'm Saber, Backend Web Developer specialized in Laravel Framework with 3 years of experience. I'm from <img src="images/bangladesh-flag.png" width="13"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="images/norway-flag.png" width="13"/> <b>Bergen, Norway</b>. </p>
+<p> Welcome to my profile! </br> I'm Saber, Backend Web Developer specialized in Laravel Framework with 3 years of experience. I'm from <img src="images/bangladesh-flag.png" width="13"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="images/norway-flag.png" width="13"/> <b>Oslo, Norway</b>. </p>
 
 #### Things I code with
 
